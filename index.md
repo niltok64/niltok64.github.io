@@ -1,4 +1,5 @@
 # Imsad2
+[[my itch](https://imsad2.itch.io/ninj)]<br>
 just a random Nintendo fan on GitHub :)
 
 ## stuff i do
