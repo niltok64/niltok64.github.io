@@ -1,5 +1,4 @@
 # Imsad2
-[[my itch](https://imsad2.itch.io/)]<br>
 just a random Nintendo fan on GitHub :)
 
 ## stuff i do
@@ -8,3 +7,7 @@ just a random Nintendo fan on GitHub :)
 - a WIP downloader for *Cave Story*, source code [here](https://github.com/imsad2/cave-story-downloader)(*Cave Story* website [here](https://www.cavestory.org/))
 - a collection of stuff from working on twine during computer science class can be checked [here](https://imsad2.github.io/twinestuff/)
 - a collection of random shitposts done in Python, website [here](https://imsad2.github.io/the-useless-collection/)(source [here](https://github.com/imsad2/the-useless-collection))
+
+## links
+- [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA/featured)
+- [my itch](https://imsad2.itch.io/)
