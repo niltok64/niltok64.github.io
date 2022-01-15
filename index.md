@@ -11,3 +11,6 @@ just a random Nintendo fan on GitHub :)
 ## links
 - [youtube](https://www.youtube.com/channel/UCJNNIz40xVgEDD2fzrfrRaA/featured)
 - [my itch](https://imsad2.itch.io/)
+
+## some other stuff
+- [my MM3D save file(europe)](https://github.com/imsad2/imsad2.github.io/raw/main/save0.bin)
