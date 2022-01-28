@@ -1,4 +1,4 @@
-# Imsad2
+# KotLink
 just a random Nintendo fan on GitHub :)
 
 ## stuff i do
