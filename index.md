@@ -1,4 +1,4 @@
-# KotLink
+# Niltok
 just a random Nintendo fan on GitHub :)
 
 ## stuff i do
