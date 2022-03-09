@@ -1,5 +1,5 @@
 [![pages-build-deployment](https://github.com/niltok64/niltok64.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/niltok64/niltok64.github.io/actions/workflows/pages/pages-build-deployment)<br>
-long live FreeBSD
+long live GNU/Linux and FreeBSD
 # stuff i do
 - a WIP side scroller in GDevelop, can be played [here](https://imsad2.itch.io/ninj)(source code [here](https://github.com/imsad2/ninj))
 - a WIP downloader for *Cave Story*, source code [here](https://github.com/imsad2/cave-story-downloader)(*Cave Story* website [here](https://www.cavestory.org/))
